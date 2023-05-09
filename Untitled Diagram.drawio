@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T06:24:34.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="u2vPhOUFRUrqHcUtL5QU" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T06:28:08.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e-awRD1BovvJg0PhBXCq" version="21.2.9" type="github">
   <diagram name="Page-1" id="l539_yyUPRejLKGmjSOX">
     <mxGraphModel dx="2261" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,21 @@
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-4" target="aV2W2v_Hlvn4wCJHz9ou-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-4" target="aV2W2v_Hlvn4wCJHz9ou-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-4" target="aV2W2v_Hlvn4wCJHz9ou-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-4" target="aV2W2v_Hlvn4wCJHz9ou-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-4" target="aV2W2v_Hlvn4wCJHz9ou-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-4" target="aV2W2v_Hlvn4wCJHz9ou-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-4" value="&lt;h1&gt;评价函数&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1100" width="170" height="60" as="geometry" />
         </mxCell>
@@ -70,15 +85,15 @@
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-9" target="aV2W2v_Hlvn4wCJHz9ou-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="990" />
+              <mxPoint x="70" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-9" value="&lt;h1&gt;按照某种方式计算扰动&lt;/h1&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1200" width="195" height="60" as="geometry" />
+          <mxGeometry x="-35" y="1200" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-14" value="&lt;h1&gt;NO&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1240" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aV2W2v_Hlvn4wCJHz9ou-15" target="aV2W2v_Hlvn4wCJHz9ou-1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,8 +107,23 @@
         <mxCell id="aV2W2v_Hlvn4wCJHz9ou-18" value="&lt;h1&gt;输出波前&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1190" width="120" height="60" as="geometry" />
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-21" value="&lt;h1&gt;清晰度函数&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="940" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-22" value="&lt;h1&gt;斯特列尔比&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1020" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-23" value="&lt;h1&gt;光斑均方根半径&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1100" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-24" value="&lt;h1&gt;环围能量&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1175" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-30" value="&lt;h1&gt;...&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1260" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aV2W2v_Hlvn4wCJHz9ou-32" value="&lt;h1&gt;YES&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
